@@ -1,0 +1,35 @@
+{
+  "skill_name": "superman-splunk",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "I have a Splunk indexer cluster with 3 peers and a cluster manager. After one peer went down for maintenance, my searches are returning incomplete results and some dashboards show 'N/A'. What's happening and how do I fix it?",
+      "expected_output": "Explains Replication Factor vs Search Factor, bucket fixup process, how to check cluster status via CLI or Monitoring Console, and how to resolve under-replicated/unsearchable buckets",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "Write me an SPL search that finds all users who had more than 5 failed login attempts in a 10-minute window, followed by a successful login from a different source IP — a classic credential stuffing pattern. The data is in index=security sourcetype=auth.",
+      "expected_output": "Complete runnable SPL using stats or transaction to detect the pattern, with proper time windowing, field comparisons, and explanation of the approach",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "I'm building a Splunk Technology Add-on (TA) to collect data from a REST API every 5 minutes. The API returns JSON. Walk me through the file structure, the modular input script, and how to configure it properly including handling credentials securely.",
+      "expected_output": "Complete app directory structure, modular input Python script using splunklib, inputs.conf stanza, secure credential handling via storage/passwords REST endpoint",
+      "files": []
+    },
+    {
+      "id": 4,
+      "prompt": "My Splunk indexing pipeline seems slow — I'm seeing events arriving 10-15 minutes late and the typingQueue shows consistently high fill rates in the Monitoring Console. What are the likely causes and how do I diagnose and fix this?",
+      "expected_output": "Explains the indexing pipeline stages, what typingQueue saturation indicates (timestamp extraction/transforms bottleneck), specific diagnostics (btool, metrics.log), and fixes like disabling THP, tuning parallelIngestionPipelines, optimizing props.conf transforms",
+      "files": []
+    },
+    {
+      "id": 5,
+      "prompt": "How do I set up Splunk Enterprise Security's Risk-Based Alerting from scratch? I want to replace our noisy correlation search alerts with a proper RBA system that aggregates risk before alerting.",
+      "expected_output": "Explains RBA concepts (risk objects, risk scores, risk factors), how to configure risk-contributing correlation searches, set up the risk index, define the risk notable threshold, and practical tips for reducing alert fatigue",
+      "files": []
+    }
+  ]
+}
