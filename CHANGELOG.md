@@ -18,5 +18,5 @@ All notable changes to the **superman-splunk** skill will be documented here.
 | Config | Pass Rate |
 |--------|-----------|
 | With Skill | 96% |
-| Without Skill | 88% |
-| Delta | +8pp |
+| Without Skill | 73% |
+| Delta | +23pp |

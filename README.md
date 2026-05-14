@@ -31,7 +31,7 @@ Evaluated across 5 real-world Splunk scenarios comparing AI **with** vs **withou
 
 | Metric | With Skill | Without Skill | Delta |
 |--------|:----------:|:-------------:|:-----:|
-| **Pass Rate** | **96%** | **88%** | **+8pp** |
+| **Pass Rate** | **96%** | **73%** | **+23pp** |
 | Avg Response Time | 273s | 497s | 224s faster |
 
 Key differentiators:
